@@ -1,5 +1,5 @@
 # My_learning_path
-I want to track the way to my first job in data analysis. I would like to show you my new knowledge resorces:
+I want to track the way to my first job in data analysis. I would like to show you my new knowledge resources:
 
 
 
